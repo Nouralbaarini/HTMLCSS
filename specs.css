@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1, h3{
+    padding: 20px;
+    color:brown;
+}
+
+p{
+    font-size: 19px;
+    padding: 20px;
+    }
+ul, li{
+font-size: 19px;
+padding: 10px;
+}
+
+.structure > img{
+
+    width: 40%;
+}
+
+.structure > .Wireframe{
+    width: 24%;
+}
+
+table {
+  
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .comp{
+    margin: 30px;
+  }
